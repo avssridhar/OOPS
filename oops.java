@@ -10,7 +10,7 @@ abstract class home{
     static final int safetylimit=10000;
     //creating a constructor for the class
     home(){
-        System.out.prinln("Blue print for the class has been obtained");
+        System.out.prinln("Blue print for the house has been obtained");
     }
     //creating a requirements method
     void requirements(){
