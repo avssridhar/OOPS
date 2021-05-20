@@ -38,7 +38,7 @@ private string owner;
 private int people; 
 //defining constrcutor to the class also calling the cosntructor of the house class using super
 sridhar(){
-    super();
+    super();//calling the super class constructor using super keyword
     System.out.println("Sridhars house cosntruction has been started");
 }
 //creating a paramterized constructor
